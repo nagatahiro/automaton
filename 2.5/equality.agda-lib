@@ -1,0 +1,4 @@
+name: my-project
+include: .
+depend: standard-library-2.1
+
